@@ -262,7 +262,7 @@ console.log(isTodayMyBirthday())
 */
 
 
-/* ESERCIZIO 12
+/* ESERCIZIO 12 // Tutti gli esercizi che riguardano l'array "movies" li ho testati in un altro file e funzionano. Visto che c'è scritto di non modificare l'array non sapevo come altro fare...
   Scrivi una funzione chiamata "newestMovie" che trova il film più recente nell'array "movies" fornito.
 */
 
